@@ -26,7 +26,7 @@ You can visit my [GitHub Page](https://saishaddai.github.io/) to explore my expe
 - Interested in contributing to open-source initiatives  
 
 ## 📚 Publications & Achievements
-- [Medium Articles]([#](https://saishaddai.github.io/publications.html) – My technical writings and insights  
+- [Medium Articles](https://saishaddai.github.io/publications.html) – My technical writings and insights  
 - [Learning Achievements](https://saishaddai.github.io/achievements.html) – Certifications and completed courses  
 - [Personal Projects](https://saishaddai.github.io/projects.html) – Side projects and experiments  
 
