@@ -31,8 +31,7 @@ You can visit my [GitHub Page](https://saishaddai.github.io/) to explore my expe
 - [Personal Projects](https://saishaddai.github.io/projects.html) – Side projects and experiments  
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/saidel-lopez/)  
-- [GitHub](https://saishaddai.github.io/)  
+- [LinkedIn](https://www.linkedin.com/in/saidel-lopez/)  - Message me and I will try to answer ASAP
 
 ## ⚡ Fun Fact
 I'm colorblind — which makes me extra mindful about accessibility and design choices.  
