@@ -7,6 +7,7 @@ You can visit my [GitHub Page](https://saishaddai.github.io/) to explore my expe
 
 ---
 ## 📢 News
+- 🔎 **Jan 2026** A new year and a brand new opportunity to look for a new team to work with 
 - 🔎 **Dec 2025** Happy Holidays  
 - 🔎 **Nov 2025** I'm taking some time off and I will look for new opportunities pretty soon  
   I'm still working on my **CV**, so for the time being, my [GitHub Page](https://saishaddai.github.io/) is showing the most updated information about me.  
