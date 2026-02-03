@@ -13,7 +13,7 @@ You can visit my [GitHub Page](https://saishaddai.github.io/) to explore my expe
   I'm still working on my **CV**, so for the time being, my [GitHub Page](https://saishaddai.github.io/) is showing the most updated information about me.  
 
 ## 🚀 What I'm Working On
-- Internal projects at **Encora Inc.**
+- Improving my knowledge on Compose
 - Building accelerators in **Data** and **GenAI**
 - Improving processes for **Talent Acquisition** (Android & Java/Kotlin Backend)
 
