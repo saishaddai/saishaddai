@@ -7,13 +7,14 @@ You can visit my [GitHub Page](https://saishaddai.github.io/) to explore my expe
 
 ---
 ## 📢 News
+- 🔎 **Feb 2026** I'm still learning Jetpack Compose. There's a lot of things to learn that are quite different from old style XML.
 - 🔎 **Jan 2026** A new year and a brand new opportunity to look for a new team to work with 
 - 🔎 **Dec 2025** Happy Holidays  
 - 🔎 **Nov 2025** I'm taking some time off and I will look for new opportunities pretty soon  
   I'm still working on my **CV**, so for the time being, my [GitHub Page](https://saishaddai.github.io/) is showing the most updated information about me.  
 
 ## 🚀 What I'm Working On
-- Improving my knowledge on Compose
+- Improving my knowledge on Compose, Navigation 3
 - Building accelerators in **Data** and **GenAI**
 - Improving processes for **Talent Acquisition** (Android & Java/Kotlin Backend)
 
