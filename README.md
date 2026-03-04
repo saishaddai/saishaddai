@@ -7,6 +7,7 @@ You can visit my [GitHub Page](https://saishaddai.github.io/) to explore my expe
 
 ---
 ## 📢 News
+- 🔎 **Mar 2026** I started to focus in a new version of [Flashcards](https://github.com/saishaddai/Flashcards-2). 
 - 🔎 **Feb 2026** I'm still learning Jetpack Compose. There's a lot of things to learn that are quite different from old style XML.
 - 🔎 **Jan 2026** A new year and a brand new opportunity to look for a new team to work with 
 - 🔎 **Dec 2025** Happy Holidays  
@@ -14,9 +15,8 @@ You can visit my [GitHub Page](https://saishaddai.github.io/) to explore my expe
   I'm still working on my **CV**, so for the time being, my [GitHub Page](https://saishaddai.github.io/) is showing the most updated information about me.  
 
 ## 🚀 What I'm Working On
+- [Flashcards 2](https://github.com/saishaddai/Flashcards-2). A new personal project I started to work on.
 - Improving my knowledge on Compose, Navigation 3
-- Building accelerators in **Data** and **GenAI**
-- Improving processes for **Talent Acquisition** (Android & Java/Kotlin Backend)
 
 ## 🌱 What I'm Learning
 - **Generative AI** applications  
