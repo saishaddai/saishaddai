@@ -7,6 +7,7 @@ You can visit my [GitHub Page](https://saishaddai.github.io/) to explore my expe
 
 ---
 ## 📢 News
+- 🔎 **May 2026** Flashcards 2 is almost done. Did you know there's a certification for KMP by Jetbrains in [LinkedIn](https://www.linkedin.com/learning/paths/kotlin-professional-certificate-by-jetbrains?ref=commonmain.dev)?
 - 🔎 **Apr 2026** Flashcards 2 became a lot of work but I'm almost done with it. A new idea came from some friends. Shake2Play is still in plan but I will start it pretty soon  
 - 🔎 **Mar 2026** I started to focus in a new version of [Flashcards](https://github.com/saishaddai/Flashcards-2). 
 - 🔎 **Feb 2026** I'm still learning Jetpack Compose. There's a lot of things to learn that are quite different from old style XML.
