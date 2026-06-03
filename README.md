@@ -7,6 +7,7 @@ You can visit my [GitHub Page](https://saishaddai.github.io/) to explore my expe
 
 ---
 ## 📢 News
+- 🔎 **Jun 2026** Flashcard is already finished. Just minor details left. Even so, I'm so proud since this app was made entirely without AI and I learnerd a lot. Even so, I will put my attention to improve my knowledge with AI Agents and MCP Servers. No one know when I'll be using this tech
 - 🔎 **May 2026** Flashcards 2 is almost done. Did you know there's a certification for KMP by Jetbrains in [LinkedIn](https://www.linkedin.com/learning/paths/kotlin-professional-certificate-by-jetbrains?ref=commonmain.dev)?
 - 🔎 **Apr 2026** Flashcards 2 became a lot of work but I'm almost done with it. A new idea came from some friends. Shake2Play is still in plan but I will start it pretty soon  
 - 🔎 **Mar 2026** I started to focus in a new version of [Flashcards](https://github.com/saishaddai/Flashcards-2). 
