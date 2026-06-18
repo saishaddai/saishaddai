@@ -22,7 +22,7 @@ You can visit my [GitHub Page](https://saishaddai.github.io/) to explore my expe
 - Improving my knowledge on Compose, Navigation 3
 
 ## 🌱 What I'm Learning
-- **Generative AI** applications  
+- **Generative AI** applications (MCP Servers) 
 - **AWS Cloud Development**  
 - **Kotlin Multiplatform** for cross-platform solutions  
 
