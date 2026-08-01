@@ -7,6 +7,7 @@ You can visit my [GitHub Page](https://saishaddai.github.io/) to explore my expe
 
 ---
 ## 📢 News
+- 🔎 **Aug 2026** I will give thi month a good use to Udemy Premium. I will try to cover as much as possible AI tools with some focus on Claude and Antigravity.
 - 🔎 **Jul 2026** Second half of the year is here and I'll try some free local models that looks interesting: Hermes y Qwen.
 - 🔎 **Jun 2026** Almost done with the certification of KMP. Seems that things changes in days with KMP and they update quite often the contents. But somehow I manage to keep on going 
 - 🔎 **May 2026** Flashcards 2 is almost done. Did you know there's a certification for KMP by Jetbrains in [LinkedIn](https://www.linkedin.com/learning/paths/kotlin-professional-certificate-by-jetbrains?ref=commonmain.dev)?
