@@ -25,8 +25,9 @@ You can visit my [GitHub Page](https://saishaddai.github.io/) to explore my expe
 - Improving my knowledge on Compose, Navigation 3
 
 ## 🌱 What I'm Learning
-- **Generative AI** applications (MCP Servers) 
-- **AWS Cloud Development**  
+- **Go (TUI)** a found some curiosity to build a Text User Interface app. Let's see hoe it works
+- **Generative AI** applications (MCP Servers)
+- Keep on learning **Andrioid**. We recently had the Kotlin Conf so it means new tools and libraries to check by myself 
 - **Kotlin Multiplatform** for cross-platform solutions  
 
 ## 🤝 Collaboration
