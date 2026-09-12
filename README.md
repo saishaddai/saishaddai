@@ -21,7 +21,8 @@ You can visit my [GitHub Page](https://saishaddai.github.io/) to explore my expe
   I'm still working on my **CV**, so for the time being, my [GitHub Page](https://saishaddai.github.io/) is showing the most updated information about me.  
 
 ## 🚀 What I'm Working On
-- [Flashcards 2](https://github.com/saishaddai/Flashcards-2). A new personal project I started to work on.
+- Shake2Play and Taximeter. Two projects I really like to try on new libraries specifically for KMP
+- [Flashcards 2](https://github.com/saishaddai/Flashcards-2). Last details finally.
 - Improving my knowledge on Compose, Navigation 3
 
 ## 🌱 What I'm Learning
