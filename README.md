@@ -20,7 +20,7 @@ You can visit my [GitHub Page](https://saishaddai.github.io/) to explore my expe
 - 🔎 **Nov 2025** I'm taking some time off and I will look for new opportunities pretty soon  
   I'm still working on my **CV**, so for the time being, my [GitHub Page](https://saishaddai.github.io/) is showing the most updated information about me.  
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Working OnLolal LLM running in my laptop. LEt's see how it works Qwen 2.5 Flash
 - Shake2Play and Taximeter. Two projects I really like to try on new libraries specifically for KMP
 - [Flashcards 2](https://github.com/saishaddai/Flashcards-2). Last details finally.
 - Improving my knowledge on Compose, Navigation 3
